@@ -1,0 +1,1 @@
+Gk = "Beleive in you and work for it !!!"
